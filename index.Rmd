@@ -5,6 +5,8 @@ date: "2/22/2021"
 output: html_document
 ---
 
+![](https://www.gannett-cdn.com/presto/2019/09/13/PDTF/af5017d8-aec6-4d3c-8ed2-2300a30907eb-2020-Chevrolet-Corvette-Stingray-045.jpg?crop=3790,2132,x1270,y1102)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
