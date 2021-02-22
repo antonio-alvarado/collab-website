@@ -23,6 +23,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
+![](https://www.usedcarking.com/wp-content/themes/DealerInspireDealerTheme/images/hero-model.png)
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
