@@ -4,5 +4,6 @@ author: "Antonio Alvarado"
 date: "2/22/2021"
 output: html_document
 ---
+rmarkdown::render_site()
 
 ## About us
